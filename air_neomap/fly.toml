@@ -1,4 +1,4 @@
-app = "A.I.R-NEOMAP"
+app = "your-app-name-here"
 primary_region = "lhr"
 
 [build]
